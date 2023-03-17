@@ -19,9 +19,6 @@
 <p>If you have any questions, concerns, or complaints regarding this Agreement, we encourage you to contact us using the details below:</p>
 <p><a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#116;&#104;e&#103;&#114;oup&#104;i&#103;&#104;li&#103;&#104;t&#64;gm&#97;i&#108;.&#99;&#111;&#109;">t&#104;eg&#114;&#111;uph&#105;&#103;hl&#105;g&#104;&#116;&#64;gma&#105;l.c&#111;&#109;</a></p>
 <p>This document was last updated on March 17, 2023</p>
-<p class="madewith"><a href="https://www.websitepolicies.com/?via=madewithbadge" target="_blank" rel="nofollow"><img width="200" height="25" alt="Made with WebsitePolicies" src="https://cdn.websitepolicies.io/img/badge.png" srcset="https://cdn.websitepolicies.io/img/badge_2x.png 2x"></a></p>
-
-
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
